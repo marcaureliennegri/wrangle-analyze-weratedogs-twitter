@@ -1,4 +1,8 @@
 ## wrangle-analyze-weratedogs-twitter
+
+By Marc-Aurélien NEGRI
+
+
 Use Python to perform Data Wrangling (gathering, assessing, cleaning) of WeRateDogs Twitter account &amp; archive, followed by storing, analyzing and visualizing the wrangled data.
 
 **Introduction**
